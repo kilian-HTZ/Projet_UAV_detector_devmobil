@@ -7,7 +7,12 @@ Ce projet menait dans le cadre de l'ue gestion de projet est a pour objectif de 
 
 Afin de naviguer de manière plus pratique dans ce GIT, vous trouverez si après le lien vers la bibliothèque afin de naviguer via des liens au sein du GIT. Vous pourrez trouver le rapport, ainsi que les programmes et le site internet. UN fichier vous présentant une manière d'exécuter les fichiers pour tester les programmes, mais aussi tous les liens et mots de passe vers la base de données SQL.
 
+Nota pour afficher le site vous devez cloner le git et ouvrire dans votre navigateur le fihier Index.html
+
 
 # Bibliothèque:
 ---------------
 
+programme: https://github.com/kilian-HTZ/Projet_UAV_detector_devmobil/tree/main/prog
+rapport: https://github.com/kilian-HTZ/Projet_UAV_detector_devmobil/tree/main/Rapport_projet
+Site internet: https://github.com/kilian-HTZ/Projet_UAV_detector_devmobil/tree/main/site
