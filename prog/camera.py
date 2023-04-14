@@ -10,7 +10,7 @@ def capture(temps_attente, path="/home/kiheitz/Projet_mobile/codes/codes_fournis
     """
     fonction permettant de capturer une images de la caméra tous les temps_attente.
         VARIABLES: temps_attente (entier)
-                    path une string contenant le chemin du dossier au vous voulez sauvegarder votre image
+                    path une string contenant le chemin du dossier au vous voulez sauvegarder vos image
     Appuyer sur k pour terminer le processus 
     """
     #création du dossier si il n'existe pas
