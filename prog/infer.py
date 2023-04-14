@@ -7,7 +7,7 @@ import numpy as np
 from database import Events
 from pushbull import push
 
-def detect():
+def detect(chemin_doss="/home/kiheitz/Projet_mobile/codes/codes_fournis/images"):
     
 #import du modèle roboflow
     rf = Roboflow(api_key="tAEOzLMyNRFWLVyrM3mw")
@@ -15,7 +15,7 @@ def detect():
     model= project.version(3).model
 
 #parcours des images
-    chemin_doss="/home/kiheitz/Projet_mobile/codes/codes_fournis/images"
+    
 
     fichier_images=[f for f in os.listdir(chemin_doss)]
 
