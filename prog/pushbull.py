@@ -12,7 +12,7 @@ def push(dispo, picture, message="UAV détecté"):
     """
     
     #API Key pushbullet
-    pb = Pushbullet("o.uCyhFXIAKIElX5IXknNy4lmZbzFZe63t")
+    pb = Pushbullet("o.uCyhFXIAKIElX5IXknNy4lmZbzFZe63t")#Inserez votre token ICI
     
     #envois du message
     push = pb.push_note("Dispositif"+str(dispo), message)
